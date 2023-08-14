@@ -15,7 +15,8 @@ Python 3.x<br>
 PySimpleGUI library (pip install PySimpleGUI)<br>
 How to Run<br>
 Make sure you have Python 3.x installed on your system.<br>
-Install the PySimpleGUI library using the following command:<br>
+
+<b>Install the PySimpleGUI library using the following command:</b><br>
 Copy code<br>
 pip install PySimpleGUI<br>
 Clone this repository or download the provided calculator.py script.<br>
