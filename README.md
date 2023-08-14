@@ -1,7 +1,7 @@
 # Calculator_App
 
 <p>
-<b>Simple Calculator GUI using PySimpleGUI</b><br>
+<b>Simple Calculator GUI using PySimpleGUI</b><br> 
 This repository contains a Python script that implements a basic calculator graphical user interface (GUI) using the PySimpleGUI library. The calculator GUI allows users to perform simple arithmetic calculations through a user-friendly interface.<br>
 
 <b>Features</b><br>
