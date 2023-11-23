@@ -38,8 +38,8 @@ LightGrey1 (default)<br>
 BlueMono<br>
 Grey8<br>
 Random<br>
-To change the theme, click on the "Theme" menu and select the desired theme from the dropdown.<br>
-<b>Note</b><br><br>
+To change the theme, click on the "Theme" menu and select the desired theme from the dropdown.<br><br>
+<b>Note</b><br>
 The code uses the eval function for expression evaluation, which can be a security risk in some scenarios. It's recommended to use safer alternatives for expression evaluation in production applications.<br>
 
 <b>Contributions</b><br>
