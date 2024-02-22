@@ -4,6 +4,8 @@
 <b>Simple Calculator GUI using PySimpleGUI</b><br> 
 This repository contains a Python script that implements a basic calculator graphical user interface (GUI) using the PySimpleGUI library. The calculator GUI allows users to perform simple arithmetic calculations through a user-friendly interface.<br>
 
+
+
 <b>Features</b><br>
 User-friendly graphical interface for performing arithmetic calculations.<br>
 Buttons for digits (0-9), decimal point, basic arithmetic operators (+, -, *, /), and control actions (Clear, Enter).<br>
