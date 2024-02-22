@@ -10,8 +10,6 @@ Buttons for digits (0-9), decimal point, basic arithmetic operators (+, -, *, /)
 Option to change the visual theme of the calculator interface.<br>
 Real-time display of entered numbers and calculation results.<br><br>
 
-
-
 <b>Prerequisites</b><br>
 Python 3.x<br>
 PySimpleGUI library (pip install PySimpleGUI)<br>
